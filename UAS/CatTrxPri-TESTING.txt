@@ -1,0 +1,11 @@
+10 1 25000 masuk
+10 2 10000 keluar
+12 1 10000 masuklagi
+8 2 5000 agakkeluar
+10 1 31424 ooo
+9 2 1000 test
+9 1 2000 lalal yeye
+8 1 3214 jumat
+7 1 2000 jumat ya ges
+13 1 12345 friday
+10 1 1324 test

@@ -1,0 +1,9 @@
+*.pdf
+*.docx
+*.png
+*.exe
+*.mp4
+*.zip
+.vscode/
+Materi/
+link-video.txt
